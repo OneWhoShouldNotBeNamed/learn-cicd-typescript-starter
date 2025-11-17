@@ -2,7 +2,9 @@
 
 This repo contains the typescript starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
 
-## Local Development
+```bash
+![badge](https://yt3.googleusercontent.com/DW22K4fVgbvTl6Cx8uXFW9Nz_d2Bdn86npenO4pxzgH5fqAieB-nEYlX1ICnVG4zRIcvqUmrX4w=s900-c-k-c0x00ffffff-no-rj)
+```
 
 Make sure you're on Node version 18+.
 
