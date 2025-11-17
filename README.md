@@ -3,9 +3,10 @@
 This repo contains the typescript starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
 
 ```bash
-![badge](https://yt3.googleusercontent.com/DW22K4fVgbvTl6Cx8uXFW9Nz_d2Bdn86npenO4pxzgH5fqAieB-nEYlX1ICnVG4zRIcvqUmrX4w=s900-c-k-c0x00ffffff-no-rj)
-```
+![badge](https://www.metallica.com/on/demandware.static/-/Sites-Metallica-Library/default/dwfbe06665/images/logos/history-logo.png)
 
+```
+https://github.com/OneWhoShouldNotBeNamed/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg
 Make sure you're on Node version 18+.
 
 Create a `.env` file in the root of the project with the following contents:
