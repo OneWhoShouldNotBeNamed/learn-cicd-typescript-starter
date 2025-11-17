@@ -2,7 +2,7 @@
 
 This repo contains the typescript starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
 
-![code coverage badge](https://github.com/YOUR_NAMESPACE/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
+![code coverage badge](https://github.com/OneWhoShouldNotBeNamed/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
 
 
 Make sure you're on Node version 18+.
