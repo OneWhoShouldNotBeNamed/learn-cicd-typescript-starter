@@ -22,6 +22,9 @@ jobs:
 
       - name: Run formatting check
         run: npm run format:check
+        
+      - name: Run linting
+        run: npm run lint
 
   tests:
     name: Tests
@@ -33,6 +36,7 @@ jobs:
 
       - name: Set up Node
         uses: actions/setup-node@v4
+
         with:
           node-version: 22
 
